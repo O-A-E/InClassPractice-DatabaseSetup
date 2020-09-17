@@ -24,7 +24,7 @@ namespace InClassPractice_DatabaseSetup
                -Honda, 1946
                -Mitsubishi
                -Nissan
-            */
+            */ 
         }
     }
 }
